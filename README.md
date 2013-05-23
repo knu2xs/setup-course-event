@@ -1,7 +1,7 @@
 setup-course-event
 ==================
 
-When teaching technical classes, resources need to be moved to a temporary location on a regular basis. These resources make this job easier.
+When teaching technical classes, resources need to be moved to a temporary location on a regular basis. The resources in this repository make this job easier.
 
 The script depends on a predefined directory structure. The parent directory for the script should be the name of the class. In this directory there should be three directories, one for each resource type. These resources include demonstration data, student data and slides, with the directories respectively named <classname>_dataDemo, <classname>_dataStudent, and <classname>_slides.
 
